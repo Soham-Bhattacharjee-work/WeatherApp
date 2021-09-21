@@ -1,1 +1,1 @@
-This is a weather app built by me.This app fetches data by using the openweathermap api  with respect to city names. For better representation I used the lottie animation for creatng an animated splash Screen,Search icon and an animated header file. 
+This is a weather android app built by me.This app fetches data by using the openweathermap api  with respect to city names. For better representation I used the lottie animation for creatng an animated splash Screen,Search icon and an animated header file. 
